@@ -5,4 +5,9 @@ public class Robot{
    public Robot(){
       
    }
+   
+   public double handStrength(char[] hand){
+      
+      return .5;
+   }
 }
