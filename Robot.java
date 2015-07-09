@@ -8,6 +8,6 @@ public class Robot{
    
    public double handStrength(char[] hand){
       
-      return -1;
+      return 0;
    }
 }
